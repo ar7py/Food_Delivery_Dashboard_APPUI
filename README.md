@@ -1,6 +1,6 @@
-# food_delivery_ui
+# Food_Delivery_Dashboard_APPUI
 
-A new Flutter project.
+A new Flutter project. Only Dashboard Of A Food Delivery App.
 
 ## Getting Started
 
